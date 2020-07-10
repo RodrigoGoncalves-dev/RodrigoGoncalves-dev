@@ -1,16 +1,20 @@
-### Hi there 👋
+## Rodrigo Gonçalves 👨‍💻
 
-<!--
-**RodrigoGoncalves-dev/RodrigoGoncalves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Tenho 18 anos e estou na área de programação a 1.6 ano, venho apenas como freelancer e que está a disposição sempre para novos desafios, tive meus altos e baixos nesse meio tempo e de uns 8 meses para cá a programação se tornou um alvo forte ainda mais em minha vida.
 
-Here are some ideas to get you started:
+#### Techs que uso ⚙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desde o começo eu sempre estive entretido com JavaScript num alvo forte em que devia atingir certeiramente, com o tempo fui conhecendo novas techs que ela abrange euqe foram de muito interesse meu:
+
+* JavaScript
+* React
+* React Native
+* Node
+* Angular
+* Typescript
+* Docker
+* Express
+
+#### Contate-me 📩
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-g-a42330142/)
