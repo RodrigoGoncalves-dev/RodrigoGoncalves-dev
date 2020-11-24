@@ -1,6 +1,6 @@
 ## Rodrigo Gonçalves 👨‍💻
 
-Olá! Tenho 18 anos e estou na área de programação a 1.6 ano, venho apenas como freelancer e que está a disposição sempre para novos desafios, tive meus altos e baixos nesse meio tempo e de uns 8 meses para cá a programação se tornou um alvo forte ainda mais em minha vida.
+Olá! Sou atualmente um desenvolvedor mobile, recenmente decidi que a minha atuação no campo mobile me causou um cativo mais intenso e mais do que nunca eu contnuo a observar as atuais tecnologias do mercado visando estar por dentro e qualquer momento buscar novas possibilidades.
 
 #### Techs que uso ⚙
 
@@ -14,6 +14,7 @@ Desde o começo eu sempre estive entretido com JavaScript num alvo forte em que 
 * Typescript
 * Docker
 * Express
+* Flutter
 
 #### Contate-me 📩
 
