@@ -4,7 +4,7 @@ Olá! Sou atualmente um desenvolvedor mobile, recenmente decidi que a minha atua
 
 #### Techs que uso ⚙
 
-Desde o começo eu sempre estive entretido com JavaScript num alvo forte em que devia atingir certeiramente, com o tempo fui conhecendo novas techs que ela abrange euqe foram de muito interesse meu:
+Desde o começo eu sempre estive entretido com JavaScript num alvo forte em que devia atingir certeiramente, com o tempo fui conhecendo novas techs que ela abrange que foram de muito interesse meu:
 
 * JavaScript
 * React
