@@ -1,6 +1,6 @@
 ## Rodrigo Gonçalves 👨‍💻
 
-Olá! Sou atualmente um desenvolvedor mobile, recenmente decidi que a minha atuação no campo mobile me causou um cativo mais intenso e mais do que nunca eu contnuo a observar as atuais tecnologias do mercado visando estar por dentro e qualquer momento buscar novas possibilidades.
+Olá! Sou atualmente um desenvolvedor mobile, recentemente decidi que a minha atuação no campo mobile vem me deixando mais interessado pela área e mais do que nunca eu continuo a observar as atuais tecnologias do mercado visando estar por dentro e qualquer momento buscar novas possibilidades.
 
 #### Techs que uso ⚙
 
@@ -10,7 +10,6 @@ Desde o começo eu sempre estive entretido com JavaScript num alvo forte em que 
 * React
 * React Native
 * Node
-* Angular
 * Typescript
 * Docker
 * Express
