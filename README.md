@@ -2,19 +2,25 @@
 
 Olá! Sou atualmente um desenvolvedor mobile, recentemente decidi que a minha atuação no campo mobile vem me deixando mais interessado pela área e mais do que nunca eu continuo a observar as atuais tecnologias do mercado visando estar por dentro e qualquer momento buscar novas possibilidades.
 
-#### Techs que uso ⚙
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGoncalves-dev&theme=radical&show_icons=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGoncalves-dev&layout=compact&langs_count=16&theme=radical" />
+</div>
+</br>
+<div>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
 
-Desde o começo eu sempre estive entretido com JavaScript num alvo forte em que devia atingir certeiramente, com o tempo fui conhecendo novas techs que ela abrange que foram de muito interesse meu:
-
-* JavaScript
-* React
-* React Native
-* Node
-* Typescript
-* Docker
-* Express
-* Flutter
+##
 
 #### Contate-me 📩
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-g-a42330142/)
+<div>
+    <a href="https://www.linkedin.com/in/rodrigo-g-a42330142/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/u/0/?#inbox?compose=CllgCJlHmTrfPDpkpmJflRQgDcTfcLCGFsVfBdpMJdzHsVTxxtMZLkgcFnrmgRbslGgszJzcbkL" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
