@@ -4,7 +4,7 @@ Olá! Sou atualmente um desenvolvedor mobile, recentemente decidi que a minha at
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGoncalves-dev&theme=radical&show_icons=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGoncalves-dev&layout=compact&langs_count=16&theme=radical&hide_title=true" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGoncalves-dev&layout=compact&langs_count=16&theme=radical&hide_title=true" />
 </div>
 </br>
 <div>
