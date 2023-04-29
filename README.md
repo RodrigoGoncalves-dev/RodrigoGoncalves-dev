@@ -1,6 +1,8 @@
 ## Rodrigo Gonçalves 👨‍💻
 
-Olá! Sou atualmente um desenvolvedor mobile, recentemente decidi que a minha atuação no campo mobile vem me deixando mais interessado pela área e mais do que nunca eu continuo a observar as atuais tecnologias do mercado visando estar por dentro e qualquer momento buscar novas possibilidades.
+Olá! Sou desenvolvedor FullStack com grande foco em backend. Tenho habilidades como desenvolvedor Mobile, mas que no momento tem sido como um hobby.
+Estou melhorando meus conhecimentos para poder participar melhor da cultura DevOps, buscando aprimorar os conhecimentos que no momento posso classifica-los
+de básico para intermediário.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGoncalves-dev&theme=radical&show_icons=true&include_all_commits=true" />
